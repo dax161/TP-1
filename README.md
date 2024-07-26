@@ -44,3 +44,4 @@ Los sensores deben estar colocados al menos a un metro de distancia del suelo. A
 - [A Beginner’s Guide to Designing Embedded System Applications on Arm Cortex-M Microcontrollers](https://www.arm.com/resources/education/books/designing-embedded-systems)
 - [Microcontrolador NUCLEO-F411RE](https://os.mbed.com/platforms/ST-Nucleo-F411RE/)
 - [Sensor US-016](https://psc.byu.edu/00000188-b093-d15f-a7cc-fcf317d70001/ultrasonic-distance-sensor-analog)
+- [Documentación del sensor US-016 en Slideshare](https://es.slideshare.net/slideshow/sensor-ultrasonico-88343310/88343310)
